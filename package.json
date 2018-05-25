@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Prints numbers from 1 to 100, except if the number is divisible by 3 or 5. If it is divisible by 3, then it prints \"Fizz\"; if it is divisible by 5, it prints \"Buzz\"; and if it is divisible by both 3 and 5, it prints \"FizzBuzz\".",
+  "main": "script-spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polsvoice/fizzbuzz.git"
+  },
+  "author": "Brent Bartlett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polsvoice/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/polsvoice/fizzbuzz#readme"
+}
