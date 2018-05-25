@@ -15,6 +15,11 @@ describe('FizzBuzz', function(){
         expect(fizzBuzz(5)).to.equal('Buzz');
         expect(fizzBuzz(10)).to.equal('Buzz');
     });
+    
+    it('should print "FizzBuzz"', function(){
+        expect(fizzBuzz(15)).to.equal('FizzBuzz');
+        expect(fizzBuzz(30)).to.equal('FizzBuzz');
+    });
 });
 
 
