@@ -13,6 +13,7 @@ describe('FizzBuzz', function(){
     
     it('should print "Buzz"', function(){
         expect(fizzBuzz(5)).to.equal('Buzz');
+        expect(fizzBuzz(10)).to.equal('Buzz');
     });
 });
 
