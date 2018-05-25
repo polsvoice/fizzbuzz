@@ -1,5 +1,6 @@
 module.exports = function(num){
-    return "Fizz";
+    if (num === 3) return "Fizz";
+    if (num === 5) return "Buzz";
 }
 
 // Print Fizz
